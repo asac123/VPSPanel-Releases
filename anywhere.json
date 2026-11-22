@@ -1,0 +1,22 @@
+{
+  "anywhere": 1,
+  "name": "VPS-美国",
+  "proxies": [
+    {
+      "id": "vps-us",
+      "name": "VPS-美国",
+      "protocol": "vless",
+      "server": "107.174.70.165",
+      "port": 443,
+      "uuid": "92e3e999-89f5-4d39-9054-66c907b2253d",
+      "flow": "xtls-rprx-vision",
+      "security": {
+        "type": "reality",
+        "sni": "gateway.icloud.com",
+        "publicKey": "36XD-A1sD2-at0q7pPE04Vd4zl_P9x-oM99FpAWKXw0",
+        "shortId": "fd1e9f2e08b78cb2",
+        "fingerprint": "chrome"
+      }
+    }
+  ]
+}
