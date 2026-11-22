@@ -17,6 +17,23 @@
         "shortId": "fd1e9f2e08b78cb2",
         "fingerprint": "chrome"
       }
+    },
+    {
+      "id": "vps-us-cf",
+      "name": "VPS-美国-CF",
+      "protocol": "vless",
+      "server": "deny-sims-membership-slow.trycloudflare.com",
+      "port": 443,
+      "uuid": "92e3e999-89f5-4d39-9054-66c907b2253d",
+      "transport": {
+        "type": "ws",
+        "path": "/vless-cf"
+      },
+      "security": {
+        "type": "tls",
+        "sni": "deny-sims-membership-slow.trycloudflare.com",
+        "fingerprint": "chrome"
+      }
     }
   ]
 }
